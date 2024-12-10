@@ -1,0 +1,17 @@
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\bin\Debug\scrollbarsample.exe.config
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\bin\Debug\scrollbarsample.exe
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\bin\Debug\scrollbarsample.pdb
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\MainWindow.g.cs
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\App.g.cs
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\scrollbarsample_MarkupCompile.cache
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\scrollbarsample_MarkupCompile.lref
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\MainWindow.baml
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\scrollbarsample.g.resources
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\scrollbarsample.Properties.Resources.resources
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\scrollbarsample.csproj.GenerateResource.cache
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\scrollbarsample.csproj.CoreCompileInputs.cache
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\scrollbarsample.exe
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\scrollbarsample.pdb
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\Imagepopup.g.cs
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\Imagepopup.baml
+C:\Users\Dhvani\source\repos\scrollbarsample\scrollbarsample\obj\Debug\scrollbarsample.csproj.AssemblyReference.cache

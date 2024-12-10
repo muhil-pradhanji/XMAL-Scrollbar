@@ -1,0 +1,64 @@
+﻿<Window x:Class="scrollbarsample.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:scrollbarsample"
+        mc:Ignorable="d"
+        Title="Scroll bar sample" Height="450" Width="300" >
+    <!--<Window.Resources>
+    </Window.Resources>-->
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="300*"/>
+            <!--<ColumnDefinition Width="400*" />-->
+            
+           
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" ></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid Grid.Row="0" Grid.Column="0" Background="YellowGreen"></Grid>
+        <Grid Grid.Row="1" Grid.Column="0" Background="YellowGreen"></Grid>
+        <Grid Grid.Row="2" Grid.Column="0" Background="YellowGreen"></Grid>
+        <Grid Grid.Row="3" Grid.Column="0" Background="YellowGreen" Margin="0,0,0,-15"></Grid>
+        <Grid Grid.Row="0">
+            <Grid.RowDefinitions >
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                
+            </Grid.RowDefinitions>
+            <TextBlock Text="GOOD MORNING" FontSize="20" Foreground="Black" FontStyle="Normal" Grid.Row="0" HorizontalAlignment="Center"></TextBlock>
+            <TextBlock Text="welcome" FontSize="25" Foreground="Black" FontStyle="Normal" Grid.Row="1" HorizontalAlignment="Center"></TextBlock>
+        </Grid>
+        <Grid Grid.Row="1">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+               
+            </Grid.RowDefinitions>
+            <TextBlock Text="MUHIL" Grid.Row="0" FontSize="20" Foreground="Black" FontStyle="Normal" HorizontalAlignment="Center"/>
+            <TextBlock Text="PRADHANJI" Grid.Row="1" FontSize="25" Foreground="Black" FontStyle="Normal"  HorizontalAlignment="Center"/>
+        </Grid>
+        <Grid Grid.Row="2">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+                
+            </Grid.RowDefinitions>
+            <TextBlock Text="TO DISPLAY IMAGE" FontSize="20" Foreground="Black" FontStyle="Normal" HorizontalAlignment="Center"></TextBlock>
+            <Button x:Name="btnCheck" Content="CLICK" FontSize="13" Click="Button_Click" Margin="35,10,52,0" Grid.Row="1"/>
+        </Grid>
+        <Grid Grid.Row="3">
+            <Grid.RowDefinitions>
+                <RowDefinition></RowDefinition>
+                <RowDefinition></RowDefinition>
+               
+            </Grid.RowDefinitions>
+            <TextBlock Text="YOUR IMAGE WILL BE UPLOADED " FontSize="15" Foreground="Black" FontStyle="Normal" HorizontalAlignment="Center" Grid.Row="1"></TextBlock>
+        </Grid>
+    </Grid>
+</Window>
